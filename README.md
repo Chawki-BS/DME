@@ -1,6 +1,6 @@
 ![DME](https://user-images.githubusercontent.com/86046707/227709873-9e1dc9f8-5ed0-4ccf-800f-195f3c9b9ee1.png)
 # DME
-The Secure Chatroom App is a Python-based chat application that provides secure communication between users. This application uses Tkinter for GUI, Json for data serialization, sockets for network communication and threading for concurrent execution.
+DME is a Python-based chat application that provides secure communication between users. This application uses Tkinter for GUI, Json for data serialization, sockets for network communication and threading for concurrent execution.
 
 ## Table of contents
 - [Prerequisites](#prerequisites)
